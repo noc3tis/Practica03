@@ -42,7 +42,7 @@ public class AlumnosFRM {
         txtCURP.setText("");
     }
     private void poblarComboBox(){
-        DefaultComboBoxModel <Genero> comboBoxModel = (DefaultComboBoxModel<Genero>) comboBoxSexo.getModel());
+        DefaultComboBoxModel <Genero> comboBoxModel = (DefaultComboBoxModel<Genero>) comboBoxSexo.getModel();
 
         for (Genero genero : Genero.values()) {
             comboBoxModel.addElement(genero);

@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baf1fe46-4cb4-4cf7-bfdd-c3220f7e2bff" name="Changes" comment="Proyecto inicial">
-      <change afterPath="$PROJECT_DIR$/src/Alumnos/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alumnos/AlumnosFRM.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alumnos/AlumnosFRM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alumnos/Genero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="baf1fe46-4cb4-4cf7-bfdd-c3220f7e2bff" name="Changes" comment="Proyecto modificado 06-09-24">
+      <change beforePath="$PROJECT_DIR$/src/Alumnos/AlumnosFRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alumnos/AlumnosFRM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725576557770</updated>
       <workItem from="1725576558963" duration="237000" />
-      <workItem from="1725660706431" duration="2492000" />
+      <workItem from="1725660706431" duration="2662000" />
     </task>
     <task id="LOCAL-00001" summary="Proyecto inicial">
       <option name="closed" value="true" />
@@ -98,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725576768980</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Proyecto modificado 06-09-24">
+      <option name="closed" value="true" />
+      <created>1725663394664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725663394664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto inicial" />
+    <MESSAGE value="Proyecto modificado 06-09-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto modificado 06-09-24" />
   </component>
 </project>
