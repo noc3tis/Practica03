@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf1fe46-4cb4-4cf7-bfdd-c3220f7e2bff" name="Changes" comment="Proyecto modificado 06-09-24">
+      <change afterPath="$PROJECT_DIR$/src/Alumnos/BotonGuardarListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alumnos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alumnos/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alumnos/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alumnos/AlumnosFRM.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alumnos/AlumnosFRM.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Alumnos/AlumnosFRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alumnos/AlumnosFRM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +24,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,21 +52,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "239",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/daniu/IdeaProjects/Practica03",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;239&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/daniu/IdeaProjects/Practica03&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1725576557770</updated>
       <workItem from="1725576558963" duration="237000" />
-      <workItem from="1725660706431" duration="2662000" />
+      <workItem from="1725660706431" duration="2763000" />
+      <workItem from="1725919683210" duration="3237000" />
+      <workItem from="1725924012656" duration="366000" />
+      <workItem from="1726005929120" duration="2319000" />
+      <workItem from="1726010236384" duration="656000" />
+      <workItem from="1726079835661" duration="4433000" />
+      <workItem from="1726092569294" duration="2498000" />
+      <workItem from="1726109201707" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="Proyecto inicial">
       <option name="closed" value="true" />
@@ -102,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725663394664</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Proyecto modificado 06-09-24">
+      <option name="closed" value="true" />
+      <created>1725663421326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725663421326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
